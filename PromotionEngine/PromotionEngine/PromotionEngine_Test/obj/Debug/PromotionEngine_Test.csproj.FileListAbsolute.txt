@@ -1,0 +1,8 @@
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine_Test\obj\Debug\PromotionEngine_Test.csprojResolveAssemblyReference.cache
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine_Test\bin\Debug\PromotionEngine_Test.dll
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine_Test\bin\Debug\PromotionEngine_Test.pdb
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine_Test\bin\Debug\PromotionEngine.exe
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine_Test\bin\Debug\PromotionEngine.pdb
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine_Test\obj\Debug\PromotionEngine_Test.dll
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine_Test\obj\Debug\PromotionEngine_Test.pdb

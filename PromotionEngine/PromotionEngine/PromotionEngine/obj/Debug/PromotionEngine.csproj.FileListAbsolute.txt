@@ -1,0 +1,6 @@
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+E:\Development\MVC Class\Test\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
